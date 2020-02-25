@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SrcpClient", "SrcpClient.csproj", "{6DE51FCC-D01A-423B-B2A1-7B0D2A21C2A1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = nSrcp/Client
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:PushOk\u0020CVS\u0020Proxy
+		CanCheckoutShared = true
+		SolutionUniqueID = {26CBFF71-6780-4984-9F0C-918C0F51F0D6}
+		SccProjectUniqueName1 = SrcpClient.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6DE51FCC-D01A-423B-B2A1-7B0D2A21C2A1}.Debug.ActiveCfg = Debug|.NET
+		{6DE51FCC-D01A-423B-B2A1-7B0D2A21C2A1}.Debug.Build.0 = Debug|.NET
+		{6DE51FCC-D01A-423B-B2A1-7B0D2A21C2A1}.Release.ActiveCfg = Release|.NET
+		{6DE51FCC-D01A-423B-B2A1-7B0D2A21C2A1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
